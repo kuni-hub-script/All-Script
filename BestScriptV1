@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/izI9vKjI28kL2Sny/raw", true))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/KeoZfs1acLtx6FJh/raw", true))()
 -- SKIDDED BY SIGMA @rizzify101
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
